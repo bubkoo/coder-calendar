@@ -1,0 +1,30 @@
+{
+  "exclude": [
+    "**/node_modules",
+    "**/es",
+    "**/lib",
+    "**/dist",
+    "**/test",
+    "**/*.spec.ts",
+    "**/*.test.ts"
+  ],
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "importHelpers": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true,
+    "preserveConstEnums": false,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "target": "es5",
+    "lib": ["DOM", "ES2020"]
+  }
+}

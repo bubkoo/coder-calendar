@@ -1,0 +1,64 @@
+{
+  "name": "@coder-calendar/core",
+  "version": "1.0.0",
+  "description": "Apply semantic-release's automatic publishing to a monorepo",
+  "export": "lib/index.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "unpkg": "dist/index.js",
+  "jsdelivr": "dist/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "dist",
+    "es",
+    "lib",
+    "src"
+  ],
+  "keywords": [
+    "calendar"
+  ],
+  "scripts": {
+    "clean:build": "rimraf dist es lib",
+    "clean:coverage": "rimraf ./test/coverage",
+    "clean": "run-p clean:build clean:coverage",
+    "build:esm": "tsc --module esnext --target es2015 --outDir ./es",
+    "build:cjs": "tsc --module commonjs --target es5 --outDir ./lib",
+    "build:umd": "rollup -c",
+    "build:umd:vis": "rollup -c --visualize",
+    "build:dev": "run-p build:cjs build:esm",
+    "build:watch": "run-s 'build:esm --w'",
+    "build:watch:esm": "run-s 'build:esm --w'",
+    "build:watch:cjs": "run-s 'build:cjs --w'",
+    "build": "run-s build:dev build:umd",
+    "prebuild": "run-s clean",
+    "test": "echo .",
+    "coveralls": "cat ./test/coverage/lcov.info | coveralls",
+    "pretest": "run-p clean:coverage",
+    "prepare": "run-p test build"
+  },
+  "dependencies": {
+    "@tony801015/chinese-lunar": "^0.20.2",
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "@types/seedrandom": "^3.0.2"
+  },
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/bubkoo/coder-calendar",
+  "bugs": {
+    "url": "https://github.com/bubkoo/coder-calendar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/bubkoo/coder-calendar.git",
+    "directory": "packages/core"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
