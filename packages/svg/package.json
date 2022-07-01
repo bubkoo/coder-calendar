@@ -37,7 +37,7 @@
     "prepare": "run-p test build"
   },
   "dependencies": {
-    "@coder-calendar/core": "^1.0.0"
+    "@coder-calendar/core": "1.0.0"
   },
   "author": {
     "name": "bubkoo",
