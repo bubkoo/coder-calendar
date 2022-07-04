@@ -30,9 +30,10 @@ jobs:
       - uses: actions/github-script@v6
         id: svg
         with:
+          GITHUB_TOKEN: ${{ env.bot_token }}
           result-encoding: string
           script: |
-            const script = require('./scripts/screenshot.js')
+            const script = require('./scripts/calendar.js')
             return await script({github, context, core})
       - uses: wow-actions/update-file@v1
         with:
