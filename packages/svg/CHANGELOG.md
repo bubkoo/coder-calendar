@@ -1,3 +1,10 @@
+## @coder-calendar/svg [1.0.5](https://github.com/bubkoo/coder-calendar/compare/@coder-calendar/svg@1.0.4...@coder-calendar/svg@1.0.5) (2022-07-04)
+
+
+### Bug Fixes
+
+* the height of svg ([4a2d5cb](https://github.com/bubkoo/coder-calendar/commit/4a2d5cb8730342af61156a2a4e8b1a339a8a387a))
+
 ## @coder-calendar/svg [1.0.4](https://github.com/bubkoo/coder-calendar/compare/@coder-calendar/svg@1.0.3...@coder-calendar/svg@1.0.4) (2022-07-04)
 
 
