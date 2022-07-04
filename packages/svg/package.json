@@ -1,6 +1,6 @@
 {
   "name": "@coder-calendar/svg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Apply semantic-release's automatic publishing to a monorepo",
   "export": "lib/index.js",
   "main": "lib/index.js",
