@@ -27,7 +27,7 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
   const title = options.title || '程序员老黄历'
 
   return `
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="650" viewBox="0 0 360 650">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="642" viewBox="0 0 360 642">
   <defs>
     <linearGradient id="gd-bg" x1="0" x2="0" y1="0" y2="1">
         <stop offset="0%" stop-color="rgb(255 151 44)"/>
@@ -39,8 +39,8 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
   </defs>
   <rect width="360" height="642" x="0" y="0" rx="32" ry="32" fill="url(#gd-bg)" />
   <rect width="360" height="642" x="0" y="0" rx="32" ry="32" fill="url(#pt-bg)" opacity="0.3" />
-  <rect width="358" height="562" x="1" y="40" rx="40" ry="40"  fill="#fff"/>
-  <rect width="344" height="384" x="8" y="210" rx="40" ry="40"  fill="#fffbeb"/>
+  <rect width="358" height="562" x="1" y="40" rx="40" ry="40" fill="#fff"/>
+  <rect width="344" height="384" x="8" y="210" rx="40" ry="40" fill="#fffbeb"/>
   <g transform="translate(180, 8)">
     <text y="15" fill="#f5f5f5" font-size="12px">${title}</text>
   </g>
