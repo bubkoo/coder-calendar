@@ -94,5 +94,5 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
     .dir-text {font-size:12px; font-weight: 300; fill:#fff;}
     .dir-text .dir-target{ font-size:13px; fill:#eaff8f; font-weight: 500; }
   </style>
-</svg>`
+</svg>`.trim()
 }
