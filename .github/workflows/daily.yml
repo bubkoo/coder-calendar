@@ -40,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{ env.bot_token }}
           path: README.md
           content: |
-            <img src="${{ steps.svg.outputs.result }}"/>
+            <p align="center"><img src="${{ steps.svg.outputs.result }}"/></p>
           commit_message: 'chore: embed calendar [skip ci]'
           opening_comment: '<!-- [START DAILY SAYING] -->'
           closing_comment: '<!-- [END DAILY SAYING] -->'
