@@ -30,7 +30,7 @@ jobs:
       - uses: actions/github-script@v6
         id: svg
         with:
-          GITHUB_TOKEN: ${{ env.bot_token }}
+          github-token: ${{ env.bot_token }}
           result-encoding: string
           script: |
             const script = require('./scripts/calendar.js')
