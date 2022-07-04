@@ -3,17 +3,17 @@ import { img_bg, img_taiji } from './resources'
 
 function renderItems(items: Item[], emoji: string) {
   return items
-    .map(
-      (item, index) => `
+    .map((item, index) =>
+      `
         <g transform="translate(96, ${48 * index})" clip-path="url(#clip-item)">
           <text class="item-text">
               <tspan class="item-name" x="8" y="8">${emoji} ${item.name}</tspan>
               <tspan class="item-desc" x="8" y="27">${item.desc}</tspan>
           </text>
         </g>
-  `,
+  `.trim(),
     )
-    .join('')
+    .join('\n')
 }
 
 export function generateSVG(uuid: string, options: { title?: string } = {}) {
@@ -22,8 +22,9 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
   const badEmojis = ['🙄', '😵', '🤣']
   const goodEmoji = goodEmojis[random(goodEmojis.length - 1)]
   const badEmoji = badEmojis[random(badEmojis.length - 1)]
-  const chineseDateString = `${lunar.chineseYear}年【${lunar.animal}年】${lunar.chineseMonth}月 ${lunar.chineseDay}日`
+  const nlDateString = `${lunar.chineseYear}年【${lunar.animal}年】${lunar.chineseMonth}月 ${lunar.chineseDay}日`
   const sep_line_pos = 48 * goodbad.good.length + 8
+  const title = options.title || '程序员老黄历'
 
   return `
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="650" viewBox="0 0 360 650">
@@ -41,9 +42,7 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
   <rect width="358" height="562" x="1" y="40" rx="40" ry="40"  fill="#fff"/>
   <rect width="344" height="384" x="8" y="210" rx="40" ry="40"  fill="#fffbeb"/>
   <g transform="translate(180, 8)">
-    <text y="15" fill="#f5f5f5" font-size="12px">${
-      options.title || '程序员老黄历'
-    }</text>
+    <text y="15" fill="#f5f5f5" font-size="12px">${title}</text>
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
@@ -51,7 +50,7 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
         <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;">${
           lunar.day
         }</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">${chineseDateString}</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">${nlDateString}</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -69,7 +68,7 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
         </g>
     </g>
     <line x1="4" x2="316" y1="${sep_line_pos}" y2="${sep_line_pos}" stroke-width="1" stroke-dasharray="3"  stroke="#ccc" />
-    <g transform="translate(0, 176)">
+    <g transform="translate(0, ${sep_line_pos + 24})">
         ${renderItems(goodbad.bad, badEmoji)}
         <g transform="translate(48, ${(48 * goodbad.bad.length - 8) / 2})">
           <circle r="36" fill="#ff6a38" />
