@@ -1,3 +1,10 @@
+## @coder-calendar/svg [1.0.4](https://github.com/bubkoo/coder-calendar/compare/@coder-calendar/svg@1.0.3...@coder-calendar/svg@1.0.4) (2022-07-04)
+
+
+### Bug Fixes
+
+* sep pos ([4dc0da0](https://github.com/bubkoo/coder-calendar/commit/4dc0da0c36cf8b5aff47f8c91287419122bd6dce))
+
 ## @coder-calendar/svg [1.0.3](https://github.com/bubkoo/coder-calendar/compare/@coder-calendar/svg@1.0.2...@coder-calendar/svg@1.0.3) (2022-07-04)
 
 
