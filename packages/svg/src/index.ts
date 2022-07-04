@@ -26,7 +26,7 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
   const sep_line_pos = 48 * goodbad.good.length + 8
 
   return `
-<svg transform="translate(40, 40)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="650" viewBox="0 0 360 650">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="650" viewBox="0 0 360 650">
   <defs>
     <linearGradient id="gd-bg" x1="0" x2="0" y1="0" y2="1">
         <stop offset="0%" stop-color="rgb(255 151 44)"/>
