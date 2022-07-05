@@ -62,9 +62,8 @@ export const actionNames = [
 
 export const actionDescs = [
   '有异样的灵感来源',
-  '灵感说来就来，就像段誉的六脉神剑一样',
+  '灵感说来就来',
   '山重水复疑无路，柳暗花明又一村',
-  '粹然无疵瑕，岂复须人为',
   '踏破铁鞋无觅处，得来全不费工夫',
   '文思泉涌一泻千里黯然销魂不可自拔',
 ]
@@ -78,7 +77,8 @@ export const directions: Partial<Direction>[] = [
   { name: '西南方' },
   { name: '西方' },
   { name: '西北方' },
-  { name: '大海', desc: '真正的勇士，敢于面对惨淡的人生' },
+  { name: '自己', desc: '真正的勇士，敢于面对惨淡的人生' },
+  { name: '大海', desc: '喂马、劈柴、周游世界' },
   { name: '墙角', action: '思考', desc: '睿智的双眼如一汪深幽的潭水' },
 ]
 
