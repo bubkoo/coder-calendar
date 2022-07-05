@@ -68,12 +68,19 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
         </g>
     </g>
   </g>
-  <g transform="translate(180, 623)">
+  <g transform="translate(0, 623)">
+    <path id="dir-text-path" >
+      <animate attributeName="d" from="m182,0 h0" to="m182,0 h360" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <text class="dir-text" x="178">
+      <tspan>朝向：面向</tspan>
+      <tspan class="dir-target">${direction.name}</tspan>
+      <tspan>${direction.action}</tspan>
+    </text>
     <text class="dir-text">
-        <tspan>朝向：面向</tspan>
-        <tspan class="dir-target">${direction.name}</tspan>
-        <tspan>${direction.action} </tspan>
+      <textPath xlink:href="#dir-text-path" text-anchor="start">
         <tspan>&lt;${direction.desc}&gt;</tspan>
+      </textPath>
     </text>
   </g>
   ${style.trim()}

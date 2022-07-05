@@ -13,9 +13,9 @@ export const style = `
     }
 
     .group-text {
+      fill: #fff;
       font-size: 48px;
       font-weight: 600;
-      fill: #fff;
     }
 
     .item-text {
@@ -28,19 +28,20 @@ export const style = `
     }
 
     .item-text .item-desc {
-      font-weight: 200;
       font-size: 11px;
+      font-weight: 200;
     }
 
     .dir-text {
+      fill: #fff;
       font-size: 12px;
       font-weight: 300;
-      fill: #fff;
+      text-anchor: end;
     }
 
     .dir-text .dir-target {
-      font-size: 13px;
       fill: #eaff8f;
+      font-size: 13px;
       font-weight: 500;
     }
   </style>

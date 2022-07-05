@@ -117,11 +117,19 @@
       </text>
     </g>
   </g>
-  <g transform="translate(180, 623)">
-    <text class="dir-text">
+  <g transform="translate(0, 623)">
+    <path id="dir-text-path" >
+      <animate attributeName="d" from="m182,0 h0" to="m182,0 h360" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+    </path>
+    <text class="dir-text" x="178">
         <tspan>朝向：面向</tspan>
         <tspan class="dir-target">南方</tspan>
-        <tspan>写程序，粹然无疵瑕，岂复须人为</tspan>
+        <tspan>写程序</tspan>
+    </text>
+    <text class="dir-text">
+      <textPath xlink:href="#dir-text-path" text-anchor="start">
+        <tspan>&lt;粹然无疵瑕，岂复须人为&gt;</tspan>
+      </textPath>
     </text>
   </g>
   <style>
@@ -131,7 +139,7 @@
     .item-text { fill:#666; text-anchor:start; }
     .item-text .item-name { font-size: 13px; }
     .item-text .item-desc { font-weight:200; font-size: 11px; }
-    .dir-text {font-size:12px; font-weight: 300; fill:#fff;}
+    .dir-text {font-size:12px; font-weight: 300; fill:#fff; text-anchor:end;}
     .dir-text .dir-target{ font-size:13px; fill:#eaff8f; font-weight: 500; }
     .seal-text { font-size: 11px; fill: rgba(255,0,0,0.55); }
     .seal-text .rate { font-size: 12px; font-weight: 600;}
