@@ -60,7 +60,7 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
     <image x="148" y="${
       sep_line_pos - 73 // sep_line_pos - img_height/2
     }" width="148" height="146" xlink:href="${img_taiji}" />
-    <g transform="translate(0, 0)">
+    <g transform="translate(0, 4)">
         ${renderItems(goodbad.good, goodEmoji)}
         <g transform="translate(48, ${(48 * goodbad.good.length - 8) / 2})">
           <circle r="36" fill="#fddf52" />
