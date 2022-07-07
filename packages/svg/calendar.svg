@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年07月06日 周三</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">06</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】丙午月 庚申日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年07月07日 周四</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">07</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】丁未月 辛酉日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,19 +55,19 @@
     <g transform="translate(0, 4)">
         <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 洗澡</tspan>
+              <tspan class="item-name" x="8" y="8">😱 洗澡</tspan>
               <tspan class="item-desc" x="8" y="27">你几天没洗澡了？</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 抽烟</tspan>
-              <tspan class="item-desc" x="8" y="27">抽烟有利于提神，增加思维敏捷</tspan>
+              <tspan class="item-name" x="8" y="8">😱 浏览成人网站</tspan>
+              <tspan class="item-desc" x="8" y="27">重拾对生活的信心</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 重构</tspan>
+              <tspan class="item-name" x="8" y="8">😱 重构</tspan>
               <tspan class="item-desc" x="8" y="27">代码质量得到提高</tspan>
           </text>
         </g>
@@ -80,26 +80,26 @@
     <g transform="translate(0, 176)">
         <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 晚上加班</tspan>
-              <tspan class="item-desc" x="8" y="27">妨碍保安部门夜间工作</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 农药上分</tspan>
+              <tspan class="item-desc" x="8" y="27">问君能有几多愁，五人四坑赶快投</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 锻炼</tspan>
-              <tspan class="item-desc" x="8" y="27">能量没消耗多少，吃得却更多</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 抽烟</tspan>
+              <tspan class="item-desc" x="8" y="27">除非你活够了，死得早点没关系</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 修复 BUG</tspan>
-              <tspan class="item-desc" x="8" y="27">修复一个多出三个</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 撸一发</tspan>
+              <tspan class="item-desc" x="8" y="27">小撸怡情，大撸伤身，强撸灰飞烟灭</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 撸一发</tspan>
-              <tspan class="item-desc" x="8" y="27">小撸怡情，大撸伤身，强撸灰飞烟灭</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 提交辞职申请</tspan>
+              <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
           </text>
         </g>
         <g transform="translate(48, 92)">
@@ -114,12 +114,12 @@
     </path>
     <text class="dir-text" x="178">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">南方</tspan>
-      <tspan>写程序</tspan>
+      <tspan class="dir-target">自己</tspan>
+      <tspan>干活</tspan>
     </text>
     <text class="dir-text">
       <textPath xlink:href="#dir-text-path" text-anchor="start">
-        <tspan>&lt;文思泉涌一泻千里黯然销魂不可自拔&gt;</tspan>
+        <tspan>&lt;真正的勇士，敢于面对惨淡的人生&gt;</tspan>
       </textPath>
     </text>
   </g>
