@@ -19,6 +19,19 @@ function renderItems(items: Item[], emoji: string) {
     .join('\n')
 }
 
+function renderSectionTitle(
+  numItem: number,
+  title: string,
+  background: string,
+) {
+  return `
+        <g transform="translate(48, ${(48 * numItem - 32) / 2})">
+          <circle r="36" fill="${background}" />
+          <text class="group-text" y="4">${title}</text>
+        </g>
+  `.trim()
+}
+
 export function generateSVG(uuid: string, options: { title?: string } = {}) {
   const { goodbad, direction, random, lunar, todayString } = generate(uuid, 7)
   const goodEmojis = ['😜', '😱', '🤗']
@@ -54,33 +67,20 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
     }" width="148" height="146" xlink:href="${img_taiji}" />
     <g transform="translate(0, 4)">
         ${renderItems(goodbad.good, goodEmoji)}
-        <g transform="translate(48, ${(48 * goodbad.good.length - 8) / 2})">
-          <circle r="36" fill="#fddf52" />
-          <text class="group-text" y="4">宜</text>
-        </g>
+        ${renderSectionTitle(goodbad.good.length, '#fddf52', '宜')}
     </g>
     <line x1="4" x2="316" y1="${sep_line_pos}" y2="${sep_line_pos}" stroke-width="1" stroke-dasharray="3"  stroke="#ccc" />
     <g transform="translate(0, ${sep_line_pos + 24})">
         ${renderItems(goodbad.bad, badEmoji)}
-        <g transform="translate(48, ${(48 * goodbad.bad.length - 8) / 2})">
-          <circle r="36" fill="#ff6a38" />
-          <text class="group-text" y="4">忌</text>
-        </g>
+        ${renderSectionTitle(goodbad.bad.length, '#ff6a38', '忌')}
     </g>
   </g>
-  <g transform="translate(0, 623)">
-    <path id="dir-text-path" >
-      <animate attributeName="d" from="m182,0 h0" to="m182,0 h360" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-    </path>
-    <text class="dir-text" x="178">
+  <g transform="translate(180, 623)">
+    <text class="dir-text">
       <tspan>朝向：面向</tspan>
       <tspan class="dir-target">${direction.name}</tspan>
       <tspan>${direction.action}</tspan>
-    </text>
-    <text class="dir-text">
-      <textPath xlink:href="#dir-text-path" text-anchor="start">
-        <tspan>&lt;${direction.desc}&gt;</tspan>
-      </textPath>
+      <tspan>&lt;${direction.desc}&gt;</tspan>
     </text>
   </g>
   ${style.trim()}

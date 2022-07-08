@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="642" viewBox="0 0 360 642">
+<svg id="calendar-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="360" height="642" viewBox="0 0 360 642">
   <defs>
     <linearGradient id="gd-bg" x1="0" x2="0" y1="0" y2="1">
         <stop offset="0%" stop-color="rgb(255 151 44)"/>
@@ -77,7 +77,7 @@
               <tspan class="item-desc" x="8" y="27">面试官今天心情很好</tspan>
           </text>
         </g>
-        <g transform="translate(48, 92)">
+        <g transform="translate(48, 80)">
           <circle r="36" fill="#fddf52" />
           <text class="group-text" y="4">宜</text>
         </g>
@@ -103,33 +103,46 @@
               <tspan class="item-desc" x="8" y="27">问君能有几多愁，五人四坑赶快投</tspan>
           </text>
         </g>
-        <g transform="translate(48, 68)">
+        <g transform="translate(48, 56)">
           <circle r="36" fill="#ff6a38" />
           <text class="group-text" y="4">忌</text>
         </g>
     </g>
-    <g transform="translate(200, 140)">
-      <circle cx="0" cy="0" r="100" stroke="rgba(255,0,0,0.55)" stroke-width="6" fill="rgba(255, 251, 235, 0.55)" />
-      <text transform="rotate(-30)" class="seal-text">
-        <tspan class="rate" x="0" y="-40">运势评级：★★★☆☆</tspan>
-        <tspan class="title" x="0" y="2">马马虎虎</tspan>
-        <tspan class="desc" x="0" y="44">得过且过，难得糊涂</tspan>
-      </text>
+    <g transform="translate(200, 140)" opacity="1">
+      <g transform="rotate(-30)">
+        <g transform="scale(1)">
+          <circle cx="0" cy="0" r="100" stroke="rgba(255,0,0,0.55)" stroke-width="6" fill="rgba(255, 251, 235, 0.55)" />
+          <text class="seal-text">
+            <tspan class="seal-text-rate" x="0" y="-40">运势评级：★★★☆☆</tspan>
+            <tspan class="seal-text-title" x="0" y="2">马马虎虎</tspan>
+            <tspan class="seal-text-desc" x="0" y="44">得过且过，难得糊涂</tspan>
+          </text>
+          <animateTransform attributeName="transform" type="scale"  from="10" to="1" dur="1s" repeatCount="1" calcMode="spline" keySplines="0 0 0.58 1" keyTimes="0;1" />
+        </g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-30" dur="1s" repeatCount="1" calcMode="spline" keySplines="0 0 0.58 1" keyTimes="0;1" />
+      </g>
+      <animate attributeName="opacity" from="0" to="1" dur="1s" repeatCount="1" calcMode="spline" keySplines="0 0 0.58 1" keyTimes="0;1" />
     </g>
   </g>
-  <g transform="translate(0, 623)">
-    <path id="dir-text-path" >
-      <animate attributeName="d" from="m182,0 h0" to="m182,0 h360" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+  <!-- <g transform="translate(180, 623)">
+    <path id="dir-text-path">
+      <animate id="op" attributeName="d" from="m-160,0 h0" to="m-160,0 h720" dur="5s" fill="remove" repeatCount="indefinite"/>
     </path>
-    <text class="dir-text" x="178">
+    <text class="dir-text">
+      <textPath xlink:href="#dir-text-path" text-anchor="start">
         <tspan>朝向：面向</tspan>
         <tspan class="dir-target">南方</tspan>
         <tspan>写程序</tspan>
-    </text>
-    <text class="dir-text">
-      <textPath xlink:href="#dir-text-path" text-anchor="start">
-        <tspan>&lt;粹然无疵瑕，岂复须人为&gt;</tspan>
+        <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
       </textPath>
+    </text>
+  </g> -->
+  <g transform="translate(180, 623)">
+    <text class="dir-text">
+      <tspan>朝向：面向</tspan>
+      <tspan class="dir-target">南方</tspan>
+      <tspan>写程序</tspan>
+      <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
     </text>
   </g>
   <style>
@@ -139,10 +152,14 @@
     .item-text { fill:#666; text-anchor:start; }
     .item-text .item-name { font-size: 13px; }
     .item-text .item-desc { font-weight:200; font-size: 11px; }
-    .dir-text {font-size:12px; font-weight: 300; fill:#fff; text-anchor:end;}
+    .dir-text {font-size:12px; font-weight: 300; fill:#fff;}
     .dir-text .dir-target{ font-size:13px; fill:#eaff8f; font-weight: 500; }
+    .seal {
+      transform: scale(5);
+      animation: zoomSeal 0.75s @ease-base-out both;
+    }
     .seal-text { font-size: 11px; fill: rgba(255,0,0,0.55); }
-    .seal-text .rate { font-size: 12px; font-weight: 600;}
-    .seal-text .title { font-weight:900; font-size: 32px; }
+    .seal-text .seal-text-rate { font-size: 12px; font-weight: 600;}
+    .seal-text .seal-text-title { font-weight:900; font-size: 32px; }
   </style>
 </svg>
