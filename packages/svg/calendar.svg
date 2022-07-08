@@ -71,9 +71,9 @@
               <tspan class="item-desc" x="8" y="27">有如神助，连赢十把</tspan>
           </text>
         </g>
-        <g transform="translate(48, 68)">
-          <circle r="36" fill="#fddf52" />
-          <text class="group-text" y="4">宜</text>
+        <g transform="translate(48, 56)">
+          <circle r="36" fill="宜" />
+          <text class="group-text" y="4">#fddf52</text>
         </g>
     </g>
     <line x1="4" x2="316" y1="152" y2="152" stroke-width="1" stroke-dasharray="3"  stroke="#ccc" />
@@ -102,25 +102,18 @@
               <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
           </text>
         </g>
-        <g transform="translate(48, 92)">
-          <circle r="36" fill="#ff6a38" />
-          <text class="group-text" y="4">忌</text>
+        <g transform="translate(48, 80)">
+          <circle r="36" fill="忌" />
+          <text class="group-text" y="4">#ff6a38</text>
         </g>
     </g>
   </g>
-  <g transform="translate(0, 623)">
-    <path id="dir-text-path" >
-      <animate attributeName="d" from="m182,0 h0" to="m182,0 h360" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-    </path>
-    <text class="dir-text" x="178">
+  <g transform="translate(180, 623)">
+    <text class="dir-text">
       <tspan>朝向：面向</tspan>
       <tspan class="dir-target">东北方</tspan>
       <tspan>做PPT</tspan>
-    </text>
-    <text class="dir-text">
-      <textPath xlink:href="#dir-text-path" text-anchor="start">
-        <tspan>&lt;有异样的灵感来源&gt;</tspan>
-      </textPath>
+      <tspan>&lt;有异样的灵感来源&gt;</tspan>
     </text>
   </g>
   <style>
