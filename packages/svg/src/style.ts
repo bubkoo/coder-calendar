@@ -36,7 +36,6 @@ export const style = `
       fill: #fff;
       font-size: 12px;
       font-weight: 300;
-      text-anchor: end;
     }
 
     .dir-text .dir-target {

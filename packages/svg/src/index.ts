@@ -66,13 +66,13 @@ export function generateSVG(uuid: string, options: { title?: string } = {}) {
       sep_line_pos - 73 // sep_line_pos - img_height/2
     }" width="148" height="146" xlink:href="${img_taiji}" />
     <g transform="translate(0, 4)">
-        ${renderItems(goodbad.good, goodEmoji)}
-        ${renderSectionTitle(goodbad.good.length, '#fddf52', '宜')}
+      ${renderItems(goodbad.good, goodEmoji)}
+      ${renderSectionTitle(goodbad.good.length, '宜', '#fddf52')}
     </g>
     <line x1="4" x2="316" y1="${sep_line_pos}" y2="${sep_line_pos}" stroke-width="1" stroke-dasharray="3"  stroke="#ccc" />
     <g transform="translate(0, ${sep_line_pos + 24})">
-        ${renderItems(goodbad.bad, badEmoji)}
-        ${renderSectionTitle(goodbad.bad.length, '#ff6a38', '忌')}
+      ${renderItems(goodbad.bad, badEmoji)}
+      ${renderSectionTitle(goodbad.bad.length, '忌', '#ff6a38')}
     </g>
   </g>
   <g transform="translate(180, 623)">
