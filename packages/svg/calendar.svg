@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年07月19日 周二</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">19</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】丁未月 癸酉日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年07月20日 周三</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">20</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】丁未月 甲戌日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 命名变量"every"</tspan>
-              <tspan class="item-desc" x="8" y="27">显示出你唑唑逼人的逼格</tspan>
+              <tspan class="item-name" x="8" y="8">😱 重构</tspan>
+              <tspan class="item-desc" x="8" y="27">代码质量得到提高</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 开会</tspan>
-              <tspan class="item-desc" x="8" y="27">写代码之余放松一下打个盹，有益健康</tspan>
+              <tspan class="item-name" x="8" y="8">😱 锻炼</tspan>
+              <tspan class="item-desc" x="8" y="27">一口气上十楼，腰不酸腿不痛</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 在妹子面前吹牛</tspan>
-              <tspan class="item-desc" x="8" y="27">改善你矮穷挫的形象</tspan>
+              <tspan class="item-name" x="8" y="8">😱 跳槽</tspan>
+              <tspan class="item-desc" x="8" y="27">该放手时就放手</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 洗澡</tspan>
-              <tspan class="item-desc" x="8" y="27">你几天没洗澡了？</tspan>
+              <tspan class="item-name" x="8" y="8">😱 撸一发</tspan>
+              <tspan class="item-desc" x="8" y="27">避免缓冲区溢出</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,20 +86,20 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 招人</tspan>
-              <tspan class="item-desc" x="8" y="27">这人会写程序吗？</tspan>
+              <tspan class="item-name" x="8" y="8">😵 洗澡</tspan>
+              <tspan class="item-desc" x="8" y="27">会把设计方面的灵感洗掉</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 撸一发</tspan>
-              <tspan class="item-desc" x="8" y="27">小撸怡情，大撸伤身，强撸灰飞烟灭</tspan>
+              <tspan class="item-name" x="8" y="8">😵 代码复审</tspan>
+              <tspan class="item-desc" x="8" y="27">你什么问题都发现不了，白白浪费时间</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 申请加薪</tspan>
-              <tspan class="item-desc" x="8" y="27">公司正在考虑裁员</tspan>
+              <tspan class="item-name" x="8" y="8">😵 招人</tspan>
+              <tspan class="item-desc" x="8" y="27">这人会写程序吗？</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">自己</tspan>
-      <tspan>撸代码</tspan>
-      <tspan>&lt;真正的勇士，敢于面对惨淡的人生&gt;</tspan>
+      <tspan class="dir-target">大海</tspan>
+      <tspan>写文档</tspan>
+      <tspan>&lt;喂马、劈柴、周游世界&gt;</tspan>
     </text>
   </g>
   <style>
