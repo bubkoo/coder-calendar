@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年07月25日 周一</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">25</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】丁未月 己卯日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年07月26日 周二</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">26</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】丁未月 庚辰日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 修复 BUG</tspan>
-              <tspan class="item-desc" x="8" y="27">你今天对 BUG 的嗅觉大大提高</tspan>
+              <tspan class="item-name" x="8" y="8">😱 农药上分</tspan>
+              <tspan class="item-desc" x="8" y="27">有如神助，连赢十把</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 使用 Android 设备</tspan>
-              <tspan class="item-desc" x="8" y="27">看起来更有品位</tspan>
+              <tspan class="item-name" x="8" y="8">😱 写单元测试</tspan>
+              <tspan class="item-desc" x="8" y="27">发现一个重大问题，被老板表扬了</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 写超过 93 行的方法</tspan>
-              <tspan class="item-desc" x="8" y="27">你的代码组织的很好，长一点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">😱 抽烟</tspan>
+              <tspan class="item-desc" x="8" y="27">抽烟有利于提神，增加思维敏捷</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 撸一发</tspan>
-              <tspan class="item-desc" x="8" y="27">避免缓冲区溢出</tspan>
+              <tspan class="item-name" x="8" y="8">😱 提交辞职申请</tspan>
+              <tspan class="item-desc" x="8" y="27">公司找到了一个比你更能干更便宜的家伙，巴不得你赶快滚蛋</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,20 +86,20 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🙄 抽烟</tspan>
-              <tspan class="item-desc" x="8" y="27">除非你活够了，死得早点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 写超过 66 行的方法</tspan>
+              <tspan class="item-desc" x="8" y="27">原来代码只有你和上帝看的懂，现在只剩上帝了</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🙄 面试</tspan>
-              <tspan class="item-desc" x="8" y="27">面试官不爽，会拿你出气</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 晚上加班</tspan>
+              <tspan class="item-desc" x="8" y="27">妨碍保安部门夜间工作</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🙄 设计评审</tspan>
-              <tspan class="item-desc" x="8" y="27">人人筋疲力尽，评审就这么过了</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 锻炼</tspan>
+              <tspan class="item-desc" x="8" y="27">能量没消耗多少，吃得却更多</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">西方</tspan>
-      <tspan>写程序</tspan>
-      <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
+      <tspan class="dir-target">东方</tspan>
+      <tspan>干活</tspan>
+      <tspan>&lt;有异样的灵感来源&gt;</tspan>
     </text>
   </g>
   <style>
