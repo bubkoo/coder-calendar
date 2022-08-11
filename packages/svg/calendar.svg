@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年08月10日 周三</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">10</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】戊申月 乙未日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年08月11日 周四</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">11</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】戊申月 丙申日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,19 +55,19 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 招人</tspan>
-              <tspan class="item-desc" x="8" y="27">你面前这位有成为牛人的潜质</tspan>
+              <tspan class="item-name" x="8" y="8">😱 使用 MacOS</tspan>
+              <tspan class="item-desc" x="8" y="27">看起来更有品位</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 设计评审</tspan>
-              <tspan class="item-desc" x="8" y="27">设计评审会议将变成头脑风暴</tspan>
+              <tspan class="item-name" x="8" y="8">😱 申请加薪</tspan>
+              <tspan class="item-desc" x="8" y="27">老板今天心情很好</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 命名变量"free"</tspan>
+              <tspan class="item-name" x="8" y="8">😱 命名变量"every"</tspan>
               <tspan class="item-desc" x="8" y="27">显示出你唑唑逼人的逼格</tspan>
           </text>
         </g>
@@ -80,26 +80,26 @@
     <g transform="translate(0, 176)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 锻炼</tspan>
-              <tspan class="item-desc" x="8" y="27">能量没消耗多少，吃得却更多</tspan>
+              <tspan class="item-name" x="8" y="8">😵 洗澡</tspan>
+              <tspan class="item-desc" x="8" y="27">会把设计方面的灵感洗掉</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 洗澡</tspan>
-              <tspan class="item-desc" x="8" y="27">会把设计方面的灵感洗掉</tspan>
+              <tspan class="item-name" x="8" y="8">😵 面试</tspan>
+              <tspan class="item-desc" x="8" y="27">面试官不爽，会拿你出气</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 代码复审</tspan>
-              <tspan class="item-desc" x="8" y="27">你什么问题都发现不了，白白浪费时间</tspan>
+              <tspan class="item-name" x="8" y="8">😵 提交辞职申请</tspan>
+              <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 重构</tspan>
-              <tspan class="item-desc" x="8" y="27">你很有可能会陷入泥潭，骑虎难下</tspan>
+              <tspan class="item-name" x="8" y="8">😵 跳槽</tspan>
+              <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">东南方</tspan>
-      <tspan>写文档</tspan>
-      <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
+      <tspan class="dir-target">西方</tspan>
+      <tspan>干活</tspan>
+      <tspan>&lt;文思泉涌一泻千里黯然销魂不可自拔&gt;</tspan>
     </text>
   </g>
   <style>
