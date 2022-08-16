@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年08月15日 周一</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">15</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】戊申月 庚子日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年08月16日 周二</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">16</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】戊申月 辛丑日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 代码复审</tspan>
-              <tspan class="item-desc" x="8" y="27">发现重要问题的几率大大增加</tspan>
+              <tspan class="item-name" x="8" y="8">😜 跳槽</tspan>
+              <tspan class="item-desc" x="8" y="27">该放手时就放手</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 农药上分</tspan>
-              <tspan class="item-desc" x="8" y="27">有如神助，连赢十把</tspan>
+              <tspan class="item-name" x="8" y="8">😜 修复 BUG</tspan>
+              <tspan class="item-desc" x="8" y="27">你今天对 BUG 的嗅觉大大提高</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 重构</tspan>
-              <tspan class="item-desc" x="8" y="27">代码质量得到提高</tspan>
+              <tspan class="item-name" x="8" y="8">😜 命名变量"zhangdan"</tspan>
+              <tspan class="item-desc" x="8" y="27">显示出你唑唑逼人的逼格</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 使用 iOS 设备</tspan>
-              <tspan class="item-desc" x="8" y="27">看起来更有品位</tspan>
+              <tspan class="item-name" x="8" y="8">😜 设计评审</tspan>
+              <tspan class="item-desc" x="8" y="27">设计评审会议将变成头脑风暴</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,19 +86,19 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 抽烟</tspan>
-              <tspan class="item-desc" x="8" y="27">除非你活够了，死得早点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">😵 晚上加班</tspan>
+              <tspan class="item-desc" x="8" y="27">妨碍保安部门夜间工作</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 跳槽</tspan>
-              <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
+              <tspan class="item-name" x="8" y="8">😵 锻炼</tspan>
+              <tspan class="item-desc" x="8" y="27">能量没消耗多少，吃得却更多</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 提交代码</tspan>
+              <tspan class="item-name" x="8" y="8">😵 提交代码</tspan>
               <tspan class="item-desc" x="8" y="27">遇到一大堆冲突会让你觉得自己是不是时间穿越了</tspan>
           </text>
         </g>
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">墙角</tspan>
-      <tspan>思考</tspan>
-      <tspan>&lt;睿智的双眼如一汪深幽的潭水&gt;</tspan>
+      <tspan class="dir-target">西方</tspan>
+      <tspan>写程序</tspan>
+      <tspan>&lt;灵感说来就来&gt;</tspan>
     </text>
   </g>
   <style>
