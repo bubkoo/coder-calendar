@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年09月15日 周四</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">15</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】己酉月 辛未日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年09月16日 周五</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">16</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】己酉月 壬申日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 洗澡</tspan>
-              <tspan class="item-desc" x="8" y="27">你几天没洗澡了？</tspan>
+              <tspan class="item-name" x="8" y="8">😱 在妹子面前吹牛</tspan>
+              <tspan class="item-desc" x="8" y="27">改善你矮穷挫的形象</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 写超过 232 行的方法</tspan>
-              <tspan class="item-desc" x="8" y="27">你的代码组织的很好，长一点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">😱 修复 BUG</tspan>
+              <tspan class="item-desc" x="8" y="27">你今天对 BUG 的嗅觉大大提高</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 提交代码</tspan>
-              <tspan class="item-desc" x="8" y="27">神奇地修复了几个遗留 BUG</tspan>
+              <tspan class="item-name" x="8" y="8">😱 跳槽</tspan>
+              <tspan class="item-desc" x="8" y="27">该放手时就放手</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤗 申请加薪</tspan>
-              <tspan class="item-desc" x="8" y="27">老板今天心情很好</tspan>
+              <tspan class="item-name" x="8" y="8">😱 浏览成人网站</tspan>
+              <tspan class="item-desc" x="8" y="27">重拾对生活的信心</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,20 +86,20 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 浏览成人网站</tspan>
-              <tspan class="item-desc" x="8" y="27">单身久了看到谁都感觉眉清目秀</tspan>
+              <tspan class="item-name" x="8" y="8">😵 面试</tspan>
+              <tspan class="item-desc" x="8" y="27">面试官不爽，会拿你出气</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 使用 Android 设备</tspan>
-              <tspan class="item-desc" x="8" y="27">别人会觉得你在装逼</tspan>
+              <tspan class="item-name" x="8" y="8">😵 设计评审</tspan>
+              <tspan class="item-desc" x="8" y="27">人人筋疲力尽，评审就这么过了</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 重构</tspan>
-              <tspan class="item-desc" x="8" y="27">你很有可能会陷入泥潭，骑虎难下</tspan>
+              <tspan class="item-name" x="8" y="8">😵 命名变量"virtual"</tspan>
+              <tspan class="item-desc" x="8" y="27">暴露了你异于常人的英文水准</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">南方</tspan>
-      <tspan>写程序</tspan>
-      <tspan>&lt;灵感说来就来&gt;</tspan>
+      <tspan class="dir-target">北方</tspan>
+      <tspan>做汇报</tspan>
+      <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
     </text>
   </g>
   <style>
