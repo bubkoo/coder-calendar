@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年09月30日 周五</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">30</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】己酉月 丙戌日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月01日 周六</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">01</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】己酉月 丁亥日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 晚上加班</tspan>
-              <tspan class="item-desc" x="8" y="27">晚上是程序员精神最好的时候</tspan>
+              <tspan class="item-name" x="8" y="8">😜 申请加薪</tspan>
+              <tspan class="item-desc" x="8" y="27">老板今天心情很好</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 写单元测试</tspan>
-              <tspan class="item-desc" x="8" y="27">发现一个重大问题，被老板表扬了</tspan>
+              <tspan class="item-name" x="8" y="8">😜 使用 Windows10</tspan>
+              <tspan class="item-desc" x="8" y="27">看起来更有品位</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 跳槽</tspan>
-              <tspan class="item-desc" x="8" y="27">该放手时就放手</tspan>
+              <tspan class="item-name" x="8" y="8">😜 农药上分</tspan>
+              <tspan class="item-desc" x="8" y="27">有如神助，连赢十把</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 重构</tspan>
-              <tspan class="item-desc" x="8" y="27">代码质量得到提高</tspan>
+              <tspan class="item-name" x="8" y="8">😜 洗澡</tspan>
+              <tspan class="item-desc" x="8" y="27">你几天没洗澡了？</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,20 +86,20 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 申请加薪</tspan>
-              <tspan class="item-desc" x="8" y="27">公司正在考虑裁员</tspan>
+              <tspan class="item-name" x="8" y="8">😵 修复 BUG</tspan>
+              <tspan class="item-desc" x="8" y="27">修复一个多出三个</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 抽烟</tspan>
-              <tspan class="item-desc" x="8" y="27">除非你活够了，死得早点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">😵 代码复审</tspan>
+              <tspan class="item-desc" x="8" y="27">你什么问题都发现不了，白白浪费时间</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🤣 开会</tspan>
-              <tspan class="item-desc" x="8" y="27">小心天降屎盆子背黑锅</tspan>
+              <tspan class="item-name" x="8" y="8">😵 提交辞职申请</tspan>
+              <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">东方</tspan>
-      <tspan>撸代码</tspan>
-      <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
+      <tspan class="dir-target">西方</tspan>
+      <tspan>写程序</tspan>
+      <tspan>&lt;灵感说来就来&gt;</tspan>
     </text>
   </g>
   <style>
