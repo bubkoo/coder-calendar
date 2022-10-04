@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月03日 周一</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">03</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】己酉月 己丑日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月04日 周二</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">04</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】己酉月 庚寅日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 撸一发</tspan>
-              <tspan class="item-desc" x="8" y="27">避免缓冲区溢出</tspan>
+              <tspan class="item-name" x="8" y="8">😱 提交代码</tspan>
+              <tspan class="item-desc" x="8" y="27">神奇地修复了几个遗留 BUG</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 代码复审</tspan>
-              <tspan class="item-desc" x="8" y="27">发现重要问题的几率大大增加</tspan>
+              <tspan class="item-name" x="8" y="8">😱 写超过 73 行的方法</tspan>
+              <tspan class="item-desc" x="8" y="27">你的代码组织的很好，长一点没关系</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 开会</tspan>
-              <tspan class="item-desc" x="8" y="27">写代码之余放松一下打个盹，有益健康</tspan>
+              <tspan class="item-name" x="8" y="8">😱 代码复审</tspan>
+              <tspan class="item-desc" x="8" y="27">发现重要问题的几率大大增加</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 写超过 248 行的方法</tspan>
-              <tspan class="item-desc" x="8" y="27">你的代码组织的很好，长一点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">😱 晚上加班</tspan>
+              <tspan class="item-desc" x="8" y="27">晚上是程序员精神最好的时候</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,20 +86,20 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 农药上分</tspan>
-              <tspan class="item-desc" x="8" y="27">问君能有几多愁，五人四坑赶快投</tspan>
+              <tspan class="item-name" x="8" y="8">😵 撸一发</tspan>
+              <tspan class="item-desc" x="8" y="27">小撸怡情，大撸伤身，强撸灰飞烟灭</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 申请加薪</tspan>
-              <tspan class="item-desc" x="8" y="27">公司正在考虑裁员</tspan>
+              <tspan class="item-name" x="8" y="8">😵 农药上分</tspan>
+              <tspan class="item-desc" x="8" y="27">问君能有几多愁，五人四坑赶快投</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 浏览成人网站</tspan>
-              <tspan class="item-desc" x="8" y="27">单身久了看到谁都感觉眉清目秀</tspan>
+              <tspan class="item-name" x="8" y="8">😵 重构</tspan>
+              <tspan class="item-desc" x="8" y="27">你很有可能会陷入泥潭，骑虎难下</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">西方</tspan>
-      <tspan>写程序</tspan>
-      <tspan>&lt;山重水复疑无路，柳暗花明又一村&gt;</tspan>
+      <tspan class="dir-target">自己</tspan>
+      <tspan>做汇报</tspan>
+      <tspan>&lt;真正的勇士，敢于面对惨淡的人生&gt;</tspan>
     </text>
   </g>
   <style>
