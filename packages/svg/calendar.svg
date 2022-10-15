@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月14日 周五</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">14</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】庚戌月 庚子日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月15日 周六</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">15</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】庚戌月 辛丑日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 申请加薪</tspan>
-              <tspan class="item-desc" x="8" y="27">老板今天心情很好</tspan>
+              <tspan class="item-name" x="8" y="8">😱 修复 BUG</tspan>
+              <tspan class="item-desc" x="8" y="27">你今天对 BUG 的嗅觉大大提高</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 提交辞职申请</tspan>
-              <tspan class="item-desc" x="8" y="27">公司找到了一个比你更能干更便宜的家伙，巴不得你赶快滚蛋</tspan>
+              <tspan class="item-name" x="8" y="8">😱 开会</tspan>
+              <tspan class="item-desc" x="8" y="27">写代码之余放松一下打个盹，有益健康</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 写超过 156 行的方法</tspan>
-              <tspan class="item-desc" x="8" y="27">你的代码组织的很好，长一点没关系</tspan>
+              <tspan class="item-name" x="8" y="8">😱 提交辞职申请</tspan>
+              <tspan class="item-desc" x="8" y="27">公司找到了一个比你更能干更便宜的家伙，巴不得你赶快滚蛋</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 修复 BUG</tspan>
-              <tspan class="item-desc" x="8" y="27">你今天对 BUG 的嗅觉大大提高</tspan>
+              <tspan class="item-name" x="8" y="8">😱 面试</tspan>
+              <tspan class="item-desc" x="8" y="27">面试官今天心情很好</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,20 +86,20 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 洗澡</tspan>
-              <tspan class="item-desc" x="8" y="27">会把设计方面的灵感洗掉</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 使用 Windows10</tspan>
+              <tspan class="item-desc" x="8" y="27">别人会觉得你在装逼</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 撸一发</tspan>
-              <tspan class="item-desc" x="8" y="27">小撸怡情，大撸伤身，强撸灰飞烟灭</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 设计评审</tspan>
+              <tspan class="item-desc" x="8" y="27">人人筋疲力尽，评审就这么过了</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 锻炼</tspan>
-              <tspan class="item-desc" x="8" y="27">能量没消耗多少，吃得却更多</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 浏览成人网站</tspan>
+              <tspan class="item-desc" x="8" y="27">单身久了看到谁都感觉眉清目秀</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">自己</tspan>
+      <tspan class="dir-target">东南方</tspan>
       <tspan>做汇报</tspan>
-      <tspan>&lt;真正的勇士，敢于面对惨淡的人生&gt;</tspan>
+      <tspan>&lt;山重水复疑无路，柳暗花明又一村&gt;</tspan>
     </text>
   </g>
   <style>
