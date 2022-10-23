@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月22日 周六</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">22</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】庚戌月 戊申日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月23日 周日</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">23</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】庚戌月 己酉日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,26 +55,26 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 锻炼</tspan>
-              <tspan class="item-desc" x="8" y="27">一口气上十楼，腰不酸腿不痛</tspan>
+              <tspan class="item-name" x="8" y="8">😱 命名变量"pass"</tspan>
+              <tspan class="item-desc" x="8" y="27">显示出你唑唑逼人的逼格</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 提交辞职申请</tspan>
-              <tspan class="item-desc" x="8" y="27">公司找到了一个比你更能干更便宜的家伙，巴不得你赶快滚蛋</tspan>
+              <tspan class="item-name" x="8" y="8">😱 晚上加班</tspan>
+              <tspan class="item-desc" x="8" y="27">晚上是程序员精神最好的时候</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 修复 BUG</tspan>
-              <tspan class="item-desc" x="8" y="27">你今天对 BUG 的嗅觉大大提高</tspan>
+              <tspan class="item-name" x="8" y="8">😱 撸一发</tspan>
+              <tspan class="item-desc" x="8" y="27">避免缓冲区溢出</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😜 洗澡</tspan>
-              <tspan class="item-desc" x="8" y="27">你几天没洗澡了？</tspan>
+              <tspan class="item-name" x="8" y="8">😱 面试</tspan>
+              <tspan class="item-desc" x="8" y="27">面试官今天心情很好</tspan>
           </text>
         </g>
       <g transform="translate(48, 80)">
@@ -86,19 +86,19 @@
     <g transform="translate(0, 224)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🙄 农药上分</tspan>
-              <tspan class="item-desc" x="8" y="27">问君能有几多愁，五人四坑赶快投</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 在妹子面前吹牛</tspan>
+              <tspan class="item-desc" x="8" y="27">妹子识破了，指着鼻子骂半小时</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🙄 提交代码</tspan>
-              <tspan class="item-desc" x="8" y="27">遇到一大堆冲突会让你觉得自己是不是时间穿越了</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 修复 BUG</tspan>
+              <tspan class="item-desc" x="8" y="27">修复一个多出三个</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">🙄 跳槽</tspan>
+              <tspan class="item-name" x="8" y="8">🙄 提交辞职申请</tspan>
               <tspan class="item-desc" x="8" y="27">鉴于当前的经济形势，你的下一份工作未必比现在强</tspan>
           </text>
         </g>
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">西南方</tspan>
-      <tspan>撸代码</tspan>
-      <tspan>&lt;有异样的灵感来源&gt;</tspan>
+      <tspan class="dir-target">南方</tspan>
+      <tspan>写文档</tspan>
+      <tspan>&lt;山重水复疑无路，柳暗花明又一村&gt;</tspan>
     </text>
   </g>
   <style>
