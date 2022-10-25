@@ -42,9 +42,9 @@
   </g>
   <g transform="translate(180, 38)">
     <text class="date-text">
-        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月24日 周一</tspan>
-        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">24</tspan>
-        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】庚戌月 庚戌日</tspan>
+        <tspan x="8" y="24"  style="font-weight:600; font-size: 13px;">2022年10月25日 周二</tspan>
+        <tspan x="8" y="98"  style="font-weight:600; font-size: 120px;" fill="url(#pt-date)">25</tspan>
+        <tspan x="8" y="154" style="font-weight:400; font-size: 10px;">壬寅年【虎年】庚戌月 辛亥日</tspan>
     </text>
   </g>
   <clipPath id="clip-item">
@@ -55,20 +55,20 @@
     <g transform="translate(0, 4)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 跳槽</tspan>
-              <tspan class="item-desc" x="8" y="27">该放手时就放手</tspan>
+              <tspan class="item-name" x="8" y="8">😱 抽烟</tspan>
+              <tspan class="item-desc" x="8" y="27">抽烟有利于提神，增加思维敏捷</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 设计评审</tspan>
-              <tspan class="item-desc" x="8" y="27">设计评审会议将变成头脑风暴</tspan>
+              <tspan class="item-name" x="8" y="8">😱 代码复审</tspan>
+              <tspan class="item-desc" x="8" y="27">发现重要问题的几率大大增加</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😱 招人</tspan>
-              <tspan class="item-desc" x="8" y="27">你面前这位有成为牛人的潜质</tspan>
+              <tspan class="item-name" x="8" y="8">😱 提交辞职申请</tspan>
+              <tspan class="item-desc" x="8" y="27">公司找到了一个比你更能干更便宜的家伙，巴不得你赶快滚蛋</tspan>
           </text>
         </g>
       <g transform="translate(48, 56)">
@@ -80,20 +80,20 @@
     <g transform="translate(0, 176)">
       <g transform="translate(96, 0)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 提交代码</tspan>
-              <tspan class="item-desc" x="8" y="27">遇到一大堆冲突会让你觉得自己是不是时间穿越了</tspan>
+              <tspan class="item-name" x="8" y="8">😵 洗澡</tspan>
+              <tspan class="item-desc" x="8" y="27">会把设计方面的灵感洗掉</tspan>
           </text>
         </g>
 <g transform="translate(96, 48)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 写单元测试</tspan>
-              <tspan class="item-desc" x="8" y="27">发布都延期了，写个鬼的单元测试啊</tspan>
+              <tspan class="item-name" x="8" y="8">😵 修复 BUG</tspan>
+              <tspan class="item-desc" x="8" y="27">修复一个多出三个</tspan>
           </text>
         </g>
 <g transform="translate(96, 96)" clip-path="url(#clip-item)">
           <text class="item-text">
-              <tspan class="item-name" x="8" y="8">😵 面试</tspan>
-              <tspan class="item-desc" x="8" y="27">面试官不爽，会拿你出气</tspan>
+              <tspan class="item-name" x="8" y="8">😵 浏览成人网站</tspan>
+              <tspan class="item-desc" x="8" y="27">单身久了看到谁都感觉眉清目秀</tspan>
           </text>
         </g>
 <g transform="translate(96, 144)" clip-path="url(#clip-item)">
@@ -111,9 +111,9 @@
   <g transform="translate(180, 623)">
     <text class="dir-text">
       <tspan>朝向：面向</tspan>
-      <tspan class="dir-target">西方</tspan>
-      <tspan>撸代码</tspan>
-      <tspan>&lt;灵感说来就来&gt;</tspan>
+      <tspan class="dir-target">南方</tspan>
+      <tspan>写程序</tspan>
+      <tspan>&lt;踏破铁鞋无觅处，得来全不费工夫&gt;</tspan>
     </text>
   </g>
   <style>
